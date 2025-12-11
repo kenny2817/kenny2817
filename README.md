@@ -1,6 +1,6 @@
 # ABOUT ME
 
-Hi, I'm Kenny. I like coding and the challenges that come with it. In particular, Algorithms and optimizations on every scale: from hardware to software. Mosto of my repositories comes from university projects, but i hope to expand them with personal ideas and applications. Stay tuned!
+Hi, I'm Quentin. I like coding and the challenges that come with it. In particular, Algorithms and optimizations on every scale: from hardware to software. Mosto of my repositories comes from university projects, but i hope to expand them with personal ideas and applications. Stay tuned!
 
 # MY REPOSITORIES
 
