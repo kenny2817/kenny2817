@@ -25,3 +25,4 @@ Hi, I'm Quentin. I like coding and the challenges that come with it. In particul
 | Leetcode problems | Algorithm practice                        | [repo](https://github.com/kenny2817/Leetcode_sources/blob/master) - [account](https://leetcode.com/u/kenny281/) |
 | Parallel Boruvka  | Parallel Minimum Spanning Tree (MPI)      | [repo](https://github.com/kenny2817/parallel_Boruvka)                                                           |
 | GA_RIMS           | Genetic Algorithm - resource optimization | [repo](https://github.com/kenny2817/GA_RIMS)                                                                    |
+| ZIGSITY           | Graph database using bitsets in Zig       | [repo](https://github.com/kenny2817/ZIGSITY)                                                                    |
